@@ -1,0 +1,1 @@
+Simple Django app to display recipies for searched keywords.

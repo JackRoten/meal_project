@@ -2,7 +2,7 @@
 
 Simple Django web-app to display recipies for searched keywords, for personal use.
 
-Practise with Django Framework, SQL databases, public API usage, GitHub workflows.
+Practice with Django Framework, SQL databases, public API usage, GitHub workflows.
 
 ![alt text](images/meal_suggestions_example.png)
 
